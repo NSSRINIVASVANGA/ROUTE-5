@@ -1,0 +1,7 @@
+.list-con {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  width: 180px;
+  padding-left: 0px;
+}
